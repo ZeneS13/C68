@@ -6,6 +6,7 @@ import { createBottomTabNavigator } from 'react-navigation-tabs';
 import SearchScreen from './screens/searchScreen';
 import TransactionScreen from './screens/bookTransaction';
 
+
 export default class App extends React.Component{
   render(){
     return(
